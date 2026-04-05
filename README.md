@@ -100,11 +100,6 @@ SmartJobPortal/
 └── README.md
 ```
 
----
-
-
----
-
 ## ⚙️ How to Run the Project
 
 1. Import project into Eclipse
@@ -116,12 +111,8 @@ SmartJobPortal/
 5. Run project on server
 6. Open in browser:
 
-
-```
 http://localhost:8080/SmartJobPortal/
 ```
-
----
 
 ## 💡 Future Enhancements
 
@@ -138,15 +129,4 @@ http://localhost:8080/SmartJobPortal/
 **Mo Jahangeer**
 Aspiring Software Developer | Java & Web Technologies
 
----
 
-## ⭐ Final Note
-
-This project demonstrates strong understanding of:
-
-* Backend development using Java
-* Database integration with MySQL
-* Real-world application logic
-* UI/UX improvement techniques
-
-If you like this project, consider giving it a ⭐ on GitHub!
