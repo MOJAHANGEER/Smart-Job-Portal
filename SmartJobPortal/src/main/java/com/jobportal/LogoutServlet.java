@@ -1,0 +1,16 @@
+package com.jobportal;
+
+import java.io.*;
+import jakarta.servlet.*;
+import jakarta.servlet.http.*;
+
+public class LogoutServlet extends HttpServlet {
+    protected void doGet(HttpServletRequest req, HttpServletResponse res)
+            throws IOException {
+
+        HttpSession session = req.getSession();
+        session.invalidate();
+
+        res.sendRedirect("login.jsp");
+    }
+}
