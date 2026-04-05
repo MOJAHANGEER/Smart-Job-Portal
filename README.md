@@ -53,19 +53,23 @@ Key features:
 ## 📂 Project Structure
 SmartJobPortal/
 │
-
 ├── src/
 │   
+
 └── com.jobportal (Servlets & DB Connection)
 │
+
 ├── WebContent/ or webapp/
-│   
+
 ├── *.jsp (UI Pages)
 │  
+
 └── WEB-INF/
 │       
+
 └── web.xml
 │
+
 └── README.md
 
 ## ⚙️ How to Run the Project
