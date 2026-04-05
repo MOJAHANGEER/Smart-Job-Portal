@@ -80,14 +80,23 @@ manage job listings.
 ``
 SmartJobPortal/
 │
+
 ├── src/
+
 │   └── com.jobportal (Servlets & DB Connection)
+
 │
+
 ├── WebContent/ or webapp/
+
 │   ├── *.jsp (UI Pages)
+
 │   └── WEB-INF/
+
 │       └── web.xml
+
 │
+
 └── README.md
 ```
 
