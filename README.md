@@ -102,6 +102,9 @@ SmartJobPortal/
 
 ---
 
+
+---
+
 ## ⚙️ How to Run the Project
 
 1. Import project into Eclipse
@@ -112,6 +115,7 @@ SmartJobPortal/
 4. Update DB credentials in `DBConnection.java`
 5. Run project on server
 6. Open in browser:
+
 
 ```
 http://localhost:8080/SmartJobPortal/
