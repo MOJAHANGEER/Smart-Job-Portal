@@ -1,1 +1,15 @@
-/build/
+# Eclipse files
+.metadata/
+bin/
+.settings/
+.classpath
+.project
+
+# Tomcat / build
+target/
+out/
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
